@@ -3,3 +3,9 @@
 ```zsh
 ls .*(.)
 ```
+
+## How to list only dirs
+
+```zsh
+ls -d */
+```
